@@ -1,12 +1,10 @@
-let newString = '' //varible to store reversed string, initially declared empty
+let newString = '' 
 
-// function to reverse a string
-// str is a string to be reversed
 function ReverseString(str){
     for (let i = str.length - 1; i>=0; i--){
         newString += str[i]
     }
-    return newString //after concatenating each letter the reversed string is returned using return keyword
+    return newString 
 }
 
 const Original = 'JavaScript';

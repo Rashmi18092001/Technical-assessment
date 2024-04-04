@@ -1,19 +1,14 @@
-// arr will store sorted array and num will store the value to find in sorted array
 function binarySearchAlgo(arr, num) {
 
-    // sorting the array
     arr.sort((a, b) => a - b);
     console.log('Sorted array : ', arr)
 
-    // left variable will store left number from sorted array which have 0 index
     let left = 0;
 
-    // left variable will store right number from sorted array which have last index
     let right = arr.length - 1;
 
     while (left <= right) {
 
-        // dividing the array to find middle index
         let mid = Math.floor((left + right) / 2);
 
         // if middle element is num which is to be found 

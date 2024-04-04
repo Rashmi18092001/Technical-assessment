@@ -1,6 +1,5 @@
 function FizzBuzz(){
 
-    // iterate function for 100 times to print number 1 to 100
     for (let i = 0; i <=100; i++){
 
         // if number is multiple of 3 and 5 print FizzBuzz
@@ -25,4 +24,4 @@ function FizzBuzz(){
     }
 }
 
-FizzBuzz() //calling function
+FizzBuzz() 
