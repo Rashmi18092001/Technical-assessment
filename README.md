@@ -8,6 +8,7 @@
    If the number is not found in the array, it will return -1.
 
    Output: 
+   
    ![Binary Search](https://github.com/Rashmi18092001/Technical-assessment/assets/117255309/d9e6da0b-a5e4-429e-ae34-b64431e089b0)
 
 2)	Write a function to reverse a string without using any built-in reverse function.
@@ -17,6 +18,7 @@
    Function is called provided with the string to reverse.
 
    Output:
+   
    ![Reverse String](https://github.com/Rashmi18092001/Technical-assessment/assets/117255309/254c054e-44e5-468b-8c06-5fcc3efa3759)
 
 3)	FizzBuzz: A classic question to test programming logic. Write a program that prints the numbers from 1 to 100. But for multiples of three, print “Fizz” instead of the number, and for the multiples of five, print “Buzz”. For numbers that are multiples of both three and five, print “FizzBuzz”.
@@ -26,6 +28,7 @@
    Then calling function to execute.
 
    Output:
+   
    ![FizzBuzz](https://github.com/Rashmi18092001/Technical-assessment/assets/117255309/37cd773c-336d-46ad-8dcd-8328a6f0a5d6)
 
 4) Design a simple class hierarchy for a library management system, including classes for books, authors, and library patrons.
