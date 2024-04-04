@@ -16,8 +16,7 @@ function FizzBuzz(){
         else if(i % 5 == 0){
             console.log('Buzz');
         }
-       
-        // if number doesn't matches above conditions return number itself
+
         else{
             console.log(i);
         }
